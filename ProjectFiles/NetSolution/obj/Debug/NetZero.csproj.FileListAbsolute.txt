@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\bin\NetZero.deps.json
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\bin\NetZero.dll
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\bin\NetZero.pdb
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.dll
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\refint\NetZero.dll
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\NetZero.pdb
+C:\Users\Administrator\Documents\Rockwell Automation\FactoryTalk Optix\Projects\NetZero\ProjectFiles\NetSolution\obj\Debug\ref\NetZero.dll

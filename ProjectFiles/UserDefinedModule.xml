@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>NetZeroUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="fb414c8ed3679c783b89d1c5a42a4c69" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="97e0bc8d04c94efe5f87bf7395859182" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="d188ffd680676a3af9cec1b95c871707" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="eed00edfabd14f4c3e52d8818b89a3a0" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="9557d7dc990bb5b9d5e3e579945f4847" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="ce814fddddd607c776a3b9a6e0b90c27" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="6268706e76811865b7e492df8df12811" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="7ec4f7b595109ccc8e144c69d55991dc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="de71daa53de21e1d4d40aa3bddfeb5e1" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="597e8b7588ebec9ef25e4f675d12daed" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="23e47963df85b7ffc149d897a6c8386b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="4be07186b66969909b27e0f1a253edb6" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="d84707cde289ac0fa8249bfd4a0279ee" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="d0fba00ff93f064d6e1cb546eea27209" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="131c0a1a6112621c549a9316e355c0de" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="cc33266b3f1854c64ad6ccfae97b9149" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="eb79772641e805f6f593d593766e11c8" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="9be715eaaa4b1d26fb2c470a63679da6" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="d86ed22a4b8fd8a36a3803007fc8e2c5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="84c007a918d12cfcdc7c1d8a03026a6d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="f7f6eaecb9c87ca11c1f3e074321fe2a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="350dcd346dac02c0603917e6542b4f06" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="25f53ca38296f5915e5664963fe72eba" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="ccb5a908f976bf60f62e2066074a5f0c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="ad5e1feac745643c58c3e55e4c9b7349" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="58e895f5e68db40403f4210304f044b7" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="036cfb163f87835dcae679c64a91adc6" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="dfed76fe1046d86bacc421ee40320dd8" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="1a7c87e76ac8518506f569091c61a12f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="c8bf4d032ce117050a98de9daa4ef698" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="ab42cc5b78c93dd5d518da3663dcf719" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="f2cec9b10095f91b7daa650ff229e0eb" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="71a50035d922c6dd92e33b98006cc5e9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="44576429aed0e79c5bfae9f56cdd05f8" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="e34e78de396e97315f99f4015e464fe9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="e8cd100b8739af1b738ea0842ea07b8e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="fe624786b99d29dd094b10a038f988f0" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="b2e3a298341455bc462f3b4ef0f2a8a2" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="beec186e7394334880dbeffb51151a98" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="301e9cfe3cace6966b929db483d93076" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="a34ae6b0d59ebd293f2b6ddb45f00100" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="f2deeb36aa6aa37a3b2b3b91b003bf47" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="3f0212d42b6a4040c50f37765c7265ca" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="76f0edba6486aeb043bcedc14a0bc356" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="331001c4a19ba8945cbeb89e2c9866bc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="4c89313482eb3fed7f26edb2acb68e1e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="d62e7a3ee72bf60bd659762d5b0c8517" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="c0df7019d8ac0d1a9f31e32438ffbf49" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="710882b26bd1b7e70a7bdb7efd4f81b2" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="09b2cf5c17e2334a96d188838682dc27" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="6034be03950689a05d4ece9c01ad7f0a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="5dfa5ea36f00ee61ac987cac3c15580d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="b907bc0bfbabdce48a2708b0de195082" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="2ab60a7a68ed9163f72d6beb6bda9179" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="20aef0650196c684478f262ebca8d28c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="0e03816da9a300bd63bf73787a1c1ca5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="0412c1a6894edf4c5cd27d98870c7f5e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="98e63b7517843ec75c72d4c430c75dcb" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="85070a04062b6243351ce654ba32d220" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="11e90236c5a15fcce81482c48a9b2fe6" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="1f169000f4cb66af7b5102a99e86a260" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="8ca3183e790bd99c245f0827aa12a21b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="83dbc6c6306374eefa9d6b89d09ed58f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="64fe15c38ce094b4945367bafcf9e7ea" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="53b1bd1b17b4de66926108a7dfdf143e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="fc0d46c3cf6fc6f7faace8fa13bde2b5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="NetZero" guid="2eebfd3def044e747aa57952fc13c70d" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>
